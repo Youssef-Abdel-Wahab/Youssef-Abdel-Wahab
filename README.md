@@ -1,74 +1,108 @@
+# Hi there, I'm Eng. Youssef Abdelwahab, PMP® 👋
+
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Engineering%20%7C%20Data%20Intelligence%20%7C%20Commercial%20Growth&fontSize=28&fontAlignY=38&desc=Bridging%20Mechanical%20Design,%20Industrial%20Automation%20%26%20Data-Driven%20Sales&descFontSize=16&descAlignY=62&fontColor=ffffff" alt="Header Banner" />
+</div>
 
-# ⚡ Eng. Youssef Abdelwahab, PMP®
-### Technical Sales Engineer | Mechanical Design Engineer | Industrial Automation & IT Solutions
-
-<p align="center">
-  <em>"Bridging Mechanical Design, Industrial Automation, and Data Analytics with Disciplined PMP® Execution."</em>
-</p>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Abdelwahab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abdelwahab-pm)
 [![GitHub](https://img.shields.io/badge/GitHub-Youssef--Abdel--Wahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Abdel-Wahab)
-
----
+[![PMP Certified](https://img.shields.io/badge/PMI-PMP%C2%AE%20Certified-4B286D?style=for-the-badge&logo=pmi&logoColor=white)](https://www.linkedin.com/in/youssef-abdelwahab-pm)
 
 </div>
 
-## 🎯 Executive Value Proposition
+<br />
 
-Operating at the convergence of **Mechanical Design**, **Industrial Automation**, and **Commercial Strategy**, I treat the engineering sales pipeline as an end-to-end engineered system:
+## 📐 About Me
+I am a **Mechatronics Engineer**, certified **PMP®**, and **Technical Sales Specialist**. I operate at the intersection of heavy engineering, computational modeling, and commercial decision-making. 
 
-- **Mechanical Design & Engineering Rigor:** Deep technical evaluation of CAD models, RFQs, BOQs, and equipment specifications to deliver zero-defect feasibility.
-- **Industrial Automation & IT Integration:** Bridging control hardware, sensors, and operational technology (OT) with modern software architectures and industrial IT.
-- **PMP® Governance & Risk Mitigation:** Enforcing rigorous project baselines, earned value metrics, lifecycle cost modeling, and stakeholder alignment.
-- **Data-Driven Sales Strategy:** Applying Python, SQL, and analytical modeling to automate bid estimations, optimize margins, and maximize deal conversion.
-- ---
-
-## 🛠️ Engineering & Technical Toolkit
-
-### ⚙️ Mechanical Design & Automation Core
-![Mechanical Design](https://img.shields.io/badge/Domain-Mechanical%20Design-00599C?style=flat-square)
-![Industrial Automation](https://img.shields.io/badge/Domain-Industrial%20Automation-D9381E?style=flat-square)
-![Control & SCADA](https://img.shields.io/badge/Control-PLC%20%2F%20SCADA%20%2F%20Sensors-107C41?style=flat-square)
-![CAD Modeling](https://img.shields.io/badge/CAD-3D%20Modeling%20%26%20Simulation-4A154B?style=flat-square)
-![Industrial IT](https://img.shields.io/badge/Solutions-Industrial%20IT%20Systems-0078D4?style=flat-square)
-
-### 📊 Data Intelligence & Modeling
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel Modeling](https://img.shields.io/badge/Excel-Advanced%20Financial%20Modeling-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-### 📋 Governance & Commercial Execution
-![PMP Certified](https://img.shields.io/badge/PMI-PMP%C2%AE%20Frameworks-4B286D?style=flat-square)
-![Project Baselines](https://img.shields.io/badge/Governance-Scope%2C%20Time%20%26%20Cost%20Baselines-E65100?style=flat-square)
-![Technical Sales](https://img.shields.io/badge/Commercial-B2B%20Proposals%20%26%20BOQs-00838F?style=flat-square)
-![Value Engineering](https://img.shields.io/badge/Optimization-Value%20Engineering-2E7D32?style=flat-square)
+I leverage advanced data analytics (SQL, Python, Power BI) and mechanical design validation (SolidWorks, Ansys, Fusion 360) to engineer market-winning products, optimize production cost baselines, and drive B2B pipeline conversion.
 
 ---
 
-## 📈 Git & Contribution Activity
+## 🛠️ Multi-Disciplinary Skills Matrix
+
+<table>
+  <thead>
+    <tr>
+      <th width="33%" align="center">⚙️ Mechanical Design & Simulation</th>
+      <th width="33%" align="center">📊 Data Analytics & Modeling</th>
+      <th width="33%" align="center">💼 Commercial & Governance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/SolidWorks-00599C?style=flat-square&logo=dassaultsystemes&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-F26522?style=flat-square&logo=autodesk&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Ansys%20Simulation-FFB71B?style=flat-square&logo=ansys&logoColor=black" /><br /><br />
+        <img src="https://img.shields.io/badge/Industrial%20Automation-D9381E?style=flat-square" /><br /><br />
+        <img src="https://img.shields.io/badge/CAD%2FDFM%20Optimization-283593?style=flat-square" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Pandas%20%7C%20NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br /><br />
+        <img src="https://img.shields.io/badge/Excel%20Financial%20Modeling-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://img.shields.io/badge/PMP%C2%AE%20Framework-4B286D?style=flat-square&logo=pmi&logoColor=white" /><br /><br />
+        <img src="https://img.shields.io/badge/Technical%20Sales%20Strategy-00838F?style=flat-square" /><br /><br />
+        <img src="https://img.shields.io/badge/Value%20Engineering-2E7D32?style=flat-square" /><br /><br />
+        <img src="https://img.shields.io/badge/BOQ%20%26%20RFQ%20Costing-E65100?style=flat-square" /><br /><br />
+        <img src="https://img.shields.io/badge/Pipeline%20Forecasting-C2185B?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+---
+
+## 📊 Performance & Analytics Dashboard
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Abdel-Wahab&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Abdel-Wahab&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Abdel-Wahab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔬 Core Focus Areas & Repositories
+
+- ⚙️ **Data-Driven Product Optimization:** Harnessing customer feedback and numerical market data to drive parametric adjustments in SolidWorks and Fusion 360 models, optimizing manufacturing costs and boosting product sell-through rates.
+- 🤖 **Automated BOQ & Spec Parser:** Python and SQL scripts for parsing engineering tender documents, extracting complex bill-of-quantities data, and comparing them against live component inventory.
+- 📊 **Commercial Intelligence Dashboards:** End-to-end Power BI tracking engines monitoring tender margin thresholds, quotation win/loss rates, and milestone delivery baselines.
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Youssef-Abdel-Wahab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" />
+## 🌐 Connect With Me
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Abdel-Wahab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://www.linkedin.com/in/youssef-abdelwahab-pm" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/Youssef-Abdel-Wahab" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
+
+<sub>Precision Engineering • PMP® Governance • Data-Driven Automation</sub>
 
 </div>
-
 ---
 
-## 🔬 Current Initiatives & Focus
-
-- 🤖 **Automated BOQ & Spec Parser:** Building Python pipelines to parse complex engineering bills of quantities and map them against supplier catalogs.
-- ⚙️ **Lifecycle Cost & ROI Modeling:** Developing automated algorithmic models to calculate project ROI and payback periods for automation upgrades.
-- 📊 **Commercial Intelligence Dashboards:** Tracking tender win/loss rates, margin thresholds, and pipeline velocity using integrated analytics.
-
----
-
-<div align="center">
-  <sub>Engineering Precision • PMP® Governance • Data-Driven Execution</sub>
-</div>
+## 📈 Engineering Pipeline Architecture
