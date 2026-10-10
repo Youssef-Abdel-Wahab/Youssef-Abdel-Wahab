@@ -1,7 +1,7 @@
 # Hi there, I'm Eng. Youssef Abdelwahab, PMP® 👋
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Engineering%20%7C%20Data%20Intelligence%20%7C%20Commercial%20Growth&fontSize=28&fontAlignY=38&desc=Bridging%20Mechanical%20Design,%20Industrial%20Automation%20%26%20Data-Driven%20Sales&descFontSize=16&descAlignY=62&fontColor=ffffff" alt="Header Banner" />
+  <img width="100%" src=["https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Engineering%20%7C%20Data%20Intelligence%20%7C%20Commercial%20Growth&fontSize=28&fontAlignY=38&desc=Bridging%20Mechanical%20Design,%20Industrial%20Automation%20%26%20Data-Driven%20Sales&descFontSize=16&descAlignY=62&fontColor=ffffff" alt="Header Banner"](https://camo.githubusercontent.com/a2db61c2706cc7d2303eb5dfc132d134c0c19f1bbeab2ae5dc38d31d3ffc7dd2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d312c31322c3234266865696768743d3232302673656374696f6e3d68656164657226746578743d456e67696e656572696e6725323025374325323044617461253230496e74656c6c6967656e6365253230253743253230436f6d6d65726369616c25323047726f77746826666f6e7453697a653d323826666f6e74416c69676e593d333826646573633d4272696467696e672532304d656368616e6963616c25323044657369676e2c253230496e647573747269616c2532304175746f6d6174696f6e253230253236253230446174612d44726976656e25323053616c65732664657363466f6e7453697a653d31362664657363416c69676e593d363226666f6e74436f6c6f723d666666666666)  />
 </div>
 
 <div align="center">
