@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef_Abdelwahab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abdelwahab-pm)
 [![GitHub](https://img.shields.io/badge/GitHub-Youssef--Abdel--Wahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Abdel-Wahab)
-[![PMP Certified](https://img.shields.io/badge/PMI-PMP%C2%AE%20Certified-4B286D?style=for-the-badge&logo=pmi&logoColor=white)](https://www.linkedin.com/in/youssef-abdelwahab-pm)
 
 ---
 
