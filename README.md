@@ -1,7 +1,7 @@
 # Hi there, I'm Eng. Youssef Abdelwahab, PMP® 👋
 
 <div align="center">
-  <img width="100%" rc="banner.png" alt="Youssef Abdelwahab - Technical Sales & Mechanical Design Engineer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Engineering%20%7C%20Data%20Intelligence%20%7C%20Commercial%20Growth&fontSize=28&fontAlignY=38&desc=Bridging%20Mechanical%20Design,%20Industrial%20Automation%20%26%20Data-Driven%20Sales&descFontSize=16&descAlignY=62&fontColor=ffffff" alt="Header Banner" />
 </div>
 <div align="center">
 
